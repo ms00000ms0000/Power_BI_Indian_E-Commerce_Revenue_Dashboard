@@ -56,7 +56,7 @@ This project simulates a real-world analytics workflow — from raw transactiona
 
 <div align="center">
 
- <img width="971" height="640" alt="capture_20260807_183433" src="https://github.com/user-attachments/assets/61edd5e1-26c0-4397-ae13-cb09714c2e53" />
+![Indian E-Commerce Revenue Dashboard](indian_ecommerce_dashboard_preview.gif)
 
 
 *Interactive walkthrough — gender filter, quarter filter, and state-wise slicers in action*
@@ -259,10 +259,10 @@ This dashboard enables business stakeholders to:
 Power_BI_Indian_E-Commerce_Revenue_Dashboard/
 │
 ├── Indian_ECommerce_Revenue_Power_BI_Dashboard.pbit                                        # Main Power BI file
-├── indian_ecommerce_pricing_revenue_growth_36_months.csv                                   # Source dataset
 ├── Power_BI_Indian_E-Commerce_Revenue_Dashboard.png                                        # Dashboard screenshot
 ├── README.md                                                                               # Project documentation
-└── indian_ecommerce_pricing_revenue_growth_36_month.csv                                    # Dataset file                               
+├── indian_ecommerce_dashboard_preview.gif                                                  # Dashboard Video Demostration
+└── indian_ecommerce_pricing_revenue_growth_36_month.csv                                    # Source Dataset                               
 
 ```
 
