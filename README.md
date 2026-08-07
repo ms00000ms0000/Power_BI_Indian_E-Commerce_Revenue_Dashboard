@@ -16,12 +16,6 @@ Transforming raw transactional data into strategic revenue insights for the Indi
 
 <br/>
 
-[![GitHub stars](https://img.shields.io/github/stars/ms00000ms0000/Power_BI_Indian_E-Commerce_Revenue_Dashboard?style=social)](https://github.com/ms00000ms0000/Power_BI_Indian_E-Commerce_Revenue_Dashboard/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ms00000ms0000/Power_BI_Indian_E-Commerce_Revenue_Dashboard?style=social)](https://github.com/ms00000ms0000/Power_BI_Indian_E-Commerce_Revenue_Dashboard/network/members)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ms00000ms0000/Power_BI_Indian_E-Commerce_Revenue_Dashboard)](https://github.com/ms00000ms0000/Power_BI_Indian_E-Commerce_Revenue_Dashboard/commits/main)
-
-<br/>
-
 [📥 Download Dashboard](#-installation--usage) • [🖼 View Preview](#-live-dashboard-preview) • [📊 Key Insights](#-key-performance-indicators-kpis) • [🛠 Tech Stack](#-tools--technologies)
 
 </div>
@@ -208,11 +202,13 @@ Interactive Dashboard (Visuals, Slicers, Drill-downs)
 
 ### Steps
 
-```bash
-# 1. Clone this repository
-git clone https://github.com/ms00000ms0000/Power_BI_Indian_E-Commerce_Revenue_Dashboard.git
 
+# 1. Clone this repository
+```bash
+git clone https://github.com/ms00000ms0000/Power_BI_Indian_E-Commerce_Revenue_Dashboard.git
+```
 # 2. Navigate into the project folder
+```bash
 cd Power_BI_Indian_E-Commerce_Revenue_Dashboard
 ```
 
@@ -227,12 +223,12 @@ cd Power_BI_Indian_E-Commerce_Revenue_Dashboard
 
 This dashboard enables business stakeholders to:
 
-- ✅ Optimize pricing and discount strategies based on real demand elasticity
-- ✅ Identify high-value customer segments by age, gender, and state
-- ✅ Improve inventory planning by correlating pressure with revenue trends
-- ✅ Compare seasonal and festival sales performance for future planning
-- ✅ Strengthen revenue monitoring and forecasting accuracy
-- ✅ Support faster, evidence-based strategic decision-making
+-  Optimize pricing and discount strategies based on real demand elasticity
+-  Identify high-value customer segments by age, gender, and state
+-  Improve inventory planning by correlating pressure with revenue trends
+-  Compare seasonal and festival sales performance for future planning
+-  Strengthen revenue monitoring and forecasting accuracy
+-  Support faster, evidence-based strategic decision-making
 
 ---
 
@@ -248,12 +244,12 @@ This dashboard enables business stakeholders to:
 
 ## 🔮 Future Enhancements
 
-- [ ] Add profit and margin analysis
-- [ ] Implement sales forecasting using predictive modeling
-- [ ] Add regional heatmap visualization for state-wise performance
-- [ ] Deploy via Power BI Service for cloud-based access
-- [ ] Integrate real-time or streaming data sources
-- [ ] Add RLS (Row-Level Security) for role-based data access
+-  Add profit and margin analysis
+-  Implement sales forecasting using predictive modeling
+-  Add regional heatmap visualization for state-wise performance
+-  Deploy via Power BI Service for cloud-based access
+-  Integrate real-time or streaming data sources
+-  Add RLS (Row-Level Security) for role-based data access
 
 ---
 
@@ -262,12 +258,12 @@ This dashboard enables business stakeholders to:
 ```
 Power_BI_Indian_E-Commerce_Revenue_Dashboard/
 │
-├── Indian_ECommerce_Revenue_Power_BI_Dashboard.pbix   # Main Power BI file
-├── indian_ecommerce_pricing_revenue_growth_36_months.csv  # Source dataset
-├── Power_BI_Indian_E-Commerce_Revenue_Dashboard.png   # Dashboard screenshot
-├── dashboard_demo.gif                                  # Interactive demo GIF
-├── README.md                                           # Project documentation
-└── LICENSE                                              # MIT License
+├── Indian_ECommerce_Revenue_Power_BI_Dashboard.pbit                                        # Main Power BI file
+├── indian_ecommerce_pricing_revenue_growth_36_months.csv                                   # Source dataset
+├── Power_BI_Indian_E-Commerce_Revenue_Dashboard.png                                        # Dashboard screenshot
+├── README.md                                                                               # Project documentation
+└── indian_ecommerce_pricing_revenue_growth_36_month.csv                                    # Dataset file                               
+
 ```
 
 ---
@@ -281,7 +277,7 @@ Power_BI_Indian_E-Commerce_Revenue_Dashboard/
 Data Science Graduate | Aspiring Data Analyst / AI-ML Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ms00000ms0000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ms8960)
 
 <br/>
 
